@@ -1,0 +1,24 @@
+---
+layout:		post
+title:      "Test 2"
+subtitle:   "tttttttest2"
+date:       2019-07-07
+author:     "Zeno"
+header-img: "img/post-bg-js-version.jpg"
+tags:
+    - 前端开发
+    - JavaScript
+---
+
+### test
+tttttttttest
+12345567
+```c
+#include<stdio.h>
+int main(int argc, const char *argv[])
+{
+	printf("tttttest\n");	
+	return 0;
+}
+```
+

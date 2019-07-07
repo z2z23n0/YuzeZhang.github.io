@@ -68,8 +68,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我是谁，我喜欢什么，我会什么，我想要什么"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "want to be a Geek"
+sidebar-avatar: /img/avatar-zeno.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
